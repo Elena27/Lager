@@ -1,3 +1,0 @@
-New Text My_FIX
-rebase
-New Text My_FIX1
